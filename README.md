@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pytorch and all AI ecosystem**
 
-- 👨‍💻 All of my projects are available at [https://antosha14.github.io/CV/](https://antosha14.github.io/CV/)
+- 👨‍💻 All of my projects are available at [https://antonkozelcv.netlify.app/](https://antonkozelcv.netlify.app/)
 
 - 📫 How to reach me **antonkozel761@gmail.com**
 
@@ -34,7 +34,7 @@
 ## Other tools
 | Docker | Kubernetes | Kibana | Grafana | Prometheus | Linux | D3.js |
 |--------|------------|--------|---------|------------|-------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"  alt="Kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana"  alt="Kibana" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana"  alt="Grafana" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="D3.js" alt="D3.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3.js" alt="D3.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="D3.js" alt="D3.js" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes"  alt="Kubernetes" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana"  alt="Kibana" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana"  alt="Grafana" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="D3.js" alt="D3.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3.js" alt="D3.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3.js" alt="D3.js" width="55" height="55"/> |
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antosha14&show_icons=true&locale=en&layout=compact" alt="antosha14" /></p>
 
