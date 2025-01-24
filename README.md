@@ -34,5 +34,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antosha14&show_icons=true&locale=en&layout=compact" alt="antosha14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antosha14&show_icons=true&locale=en" alt="antosha14" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antosha14&" alt="antosha14" /></p>
