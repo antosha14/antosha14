@@ -1,15 +1,6 @@
 <h1 align="left">Hi 👋, I'm Anton</h1>
 <h3 align="left">A passionate software developer from Belarus.</h3>
 
-- 🔭 I’m currently working on **Automated trading system**
-
-- 🌱 I’m currently mastering **Frontend development**
-
-- 👨‍💻 All of my projects are available at [https://antonkozelcv.netlify.app/](https://antonkozelcv.netlify.app/)
-
-- 📫 How to reach me **antonkozel761@gmail.com**
-
-
 ## Languages
 | JS                                                                                                                                          | TS                                                                                                                             | Python                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
