@@ -8,20 +8,16 @@
 
 
 ## Frontend technologies
-| React | Redux | Next.js | ViTest | Sass | Tailwind |
-|-------|-------|---------|--------|------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux"  alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js"  alt="Next.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="ViTest"  alt="ViTest" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/> |
+| React | Redux | Next.js | ViTest | Sass | Tailwind | Vue |
+|-------|-------|---------|--------|------|----------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux"  alt="Redux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js"  alt="Next.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vitest/vitest-original.svg" title="ViTest"  alt="ViTest" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="55" height="55"/> |
 
 ## Backend technologies
-| FastAPI | Node.js | RabbitMQ | PostgreSQL |
-|---------|---------|----------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js"  alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"  alt="RabbitMQ" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> |
+| FastAPI | Node.js | RabbitMQ | PostgreSQL | Nest.js |
+|---------|---------|----------|------------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js"  alt="Node.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ"  alt="RabbitMQ" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nest.js" alt="Nest.js" width="55" height="55"/> |
 
 ## Other tools
-| Docker | Linux | D3.js | Three.js |
-|--------|-------|-------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3.js" alt="D3.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="55" height="55"/> |
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antosha14&show_icons=true&locale=en&layout=compact" alt="antosha14" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antosha14&show_icons=true&locale=en" alt="antosha14" /></p>
+| Docker | Linux | D3.js | Three.js | Kubernetes |
+|--------|-------|-------|----------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" title="D3.js" alt="D3.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |
