@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Anton</h1>
-<h3 align="left">A passionate software developer from Belarus.</h3>
+<h3 align="left">A passionate software developer from Poland.</h3>
 
 ## Languages
 | JS                                                                                                                                          | TS                                                                                                                             | Python                                                                                                                                                              |
